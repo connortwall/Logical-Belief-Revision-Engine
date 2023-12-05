@@ -1,5 +1,4 @@
 # Introduction to Artificial Intelligence - 2180
-*AI-Homework-2*
 
 **Installation:**
 1. Compile the project source code (we used JDK version 13)
